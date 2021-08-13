@@ -1,0 +1,5 @@
+com/example/jishiqi/MainActivity.java
+ com.example.jishiqi.MainActivity
+ com.example.jishiqi.MainActivity$1
+com/example/jishiqi/BuildConfig.java
+ com.example.jishiqi.BuildConfig

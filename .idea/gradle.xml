@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/benghuaisandenglujiemian" />
+            <option value="$PROJECT_DIR$/chronometer" />
+            <option value="$PROJECT_DIR$/datepicker" />
+            <option value="$PROJECT_DIR$/duoxuanti" />
+            <option value="$PROJECT_DIR$/javalayout" />
+            <option value="$PROJECT_DIR$/jindutiao" />
+            <option value="$PROJECT_DIR$/liaotianjiemian" />
+            <option value="$PROJECT_DIR$/qqkongjianshuoshuho" />
+            <option value="$PROJECT_DIR$/shijianxuanzeqi" />
+            <option value="$PROJECT_DIR$/tuodongtiao" />
+            <option value="$PROJECT_DIR$/tuxiangqiehuanqi" />
+            <option value="$PROJECT_DIR$/tuxiangqiehuanqi2" />
+            <option value="$PROJECT_DIR$/wanggeshitu" />
+            <option value="$PROJECT_DIR$/xialaliebiaokuang" />
+            <option value="$PROJECT_DIR$/xmljavalayout" />
+            <option value="$PROJECT_DIR$/xmllayout" />
+            <option value="$PROJECT_DIR$/yayi" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
